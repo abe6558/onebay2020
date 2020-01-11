@@ -1,0 +1,36 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.9);
+    font-family: 'Lato', sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 900;
+}
+
+.navigation {
+    background-color:#ff6f69 !important;
+}
+
+.blue-button {
+    margin-left: 8px;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    border: 1.5px solid black;
+    color: black;
+}
+
+.navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-title {
+    background-color: orange;
+    padding: 20px 20px;
+    font-family: Lato;
+    font-weight: 900;
+
+}
