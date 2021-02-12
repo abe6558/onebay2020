@@ -1,1 +1,1 @@
-### React web app for OneBay nonprofit
+### React web app for one bay
